@@ -3,9 +3,13 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-loader": "^7.1.2",
+    "fecha": "^2.3.2",
+    "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
-    "react-scripts": "1.0.17"
+    "react-scripts": "1.0.17",
+    "webpack": "^3.10.0"
   },
   "scripts": {
     "start": "react-scripts start",
